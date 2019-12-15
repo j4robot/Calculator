@@ -22,14 +22,12 @@ class App extends React.Component{
 
   constructor(){
     super()
-    this.state = {username: '', password: ''}
+    this.state = {}
     this.btnLoginPressed = this.btnLoginPressed.bind(this)
   }
 
   btnLoginPressed = () => {
-    const username = this._username.lastNativeText;
-    const password = this._password.lastNativeText;
-    this.setState({username, password})
+    
   }
 
 
@@ -41,13 +39,17 @@ class App extends React.Component{
       <View>
         <Text style={style.label}>User Name</Text>
         <TextInput
-        style={style.input} ref={input => this._username = input}></TextInput>
+        style={style.input}
+        defaultValue={this.state.username}
+        onChangeText={text => this.setState({username: text})}></TextInput>
       </View>
 
       <View>
         <Text style={style.label}>Password</Text>
         <TextInput
-        style={style.input} ref={input => this._password = input}></TextInput>
+        style={style.input}
+        defaultValue={this.state.password}
+        onChangeText={text => this.setState({password: text})}></TextInput>
       </View>
       <Button title={'Login'} onPressed={this.btnLoginPressed}></Button>
       </View>
