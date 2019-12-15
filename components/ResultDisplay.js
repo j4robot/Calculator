@@ -22,9 +22,7 @@ class ResultDisplay extends React.Component{
     for(let x = 0; x < 4; x++){
       let row = [];
       for(let j = 0; j < 3; j++){
-        row.push(<TouchableOpacity onPress={() => this.btnPressedFunction(nums[x][j])} key={control.codeGenerator('bt', 5)} style={style.btn}>
-                    <Text style={style.btnText}>{nums[x][j]}</Text>
-                </TouchableOpacity>)
+        row.push(<TouchableOpacity onPress={() => this.btnPressedFunction(nums[x][j])} key={control.codeGenerator('bt', 5)} style={style.btn}><Text style={style.btnText}>{nums[x][j]}</Text></TouchableOpacity>)
       }
       rows.push(<View style={style.row}>{row}</View>)
     }

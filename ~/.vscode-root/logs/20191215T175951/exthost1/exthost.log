@@ -1,0 +1,58 @@
+[2019-12-15 18:00:05.931] [exthost] [info] extension host started
+[2019-12-15 18:00:06.067] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-15 18:00:06.068] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-12-15 18:00:06.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-15 18:00:06.123] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-12-15 18:00:06.305] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-15 18:00:06.306] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/git/dist/main
+[2019-12-15 18:00:06.819] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-15 18:00:06.819] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-12-15 18:00:06.974] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2019-12-15 18:00:06.975] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2019-12-15 18:00:06.981] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2019-12-15 18:00:06.981] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-12-15 18:00:07.066] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2019-12-15 18:00:07.066] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code-saitama/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-12-15 18:00:07.168] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2019-12-15 18:00:07.168] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code-saitama/.vscode/extensions/pkief.material-icon-theme-3.9.2/dist/extension
+[2019-12-15 18:00:07.235] [exthost] [info] eager extensions activated
+[2019-12-15 18:00:11.482] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-15 18:00:11.482] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-12-15 18:00:11.521] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-15 18:00:11.522] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-12-15 18:00:11.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-15 18:00:11.765] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-12-15 18:01:01.618] [exthost] [info] extension host started
+[2019-12-15 18:01:01.806] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-15 18:01:01.807] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-12-15 18:01:01.823] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-15 18:01:01.823] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-12-15 18:01:01.868] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-15 18:01:01.868] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/git/dist/main
+[2019-12-15 18:01:01.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-15 18:01:01.926] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-12-15 18:01:01.944] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2019-12-15 18:01:01.944] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2019-12-15 18:01:01.951] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2019-12-15 18:01:01.951] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-12-15 18:01:01.967] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2019-12-15 18:01:01.968] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code-saitama/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-12-15 18:01:02.000] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2019-12-15 18:01:02.000] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code-saitama/.vscode/extensions/pkief.material-icon-theme-3.9.2/dist/extension
+[2019-12-15 18:01:03.628] [exthost] [info] eager extensions activated
+[2019-12-15 18:01:15.901] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2019-12-15 18:01:15.901] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-12-15 18:01:15.928] [exthost] [info] ExtensionService#_doActivateExtension lonefy.vscode-JS-CSS-HTML-formatter {"startup":false,"extensionId":{"value":"lonefy.vscode-JS-CSS-HTML-formatter","_lower":"lonefy.vscode-js-css-html-formatter"},"activationEvent":"onLanguage:javascript"}
+[2019-12-15 18:01:15.929] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code-saitama/.vscode/extensions/lonefy.vscode-js-css-html-formatter-0.2.3/out/src/extension
+[2019-12-15 18:01:16.086] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin {"startup":false,"extensionId":{"value":"ms-vscode.vscode-typescript-tslint-plugin","_lower":"ms-vscode.vscode-typescript-tslint-plugin"},"activationEvent":"onLanguage:javascript"}
+[2019-12-15 18:01:16.087] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code-saitama/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.3/out/index.js
+[2019-12-15 18:01:16.277] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:javascript"}
+[2019-12-15 18:01:16.278] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code-saitama/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.0/dist/intellicode
+[2019-12-15 18:01:18.023] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-15 18:01:18.023] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-12-15 18:01:18.030] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-15 18:01:18.051] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-12-15 18:03:55.983] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-maven {"startup":false,"extensionId":{"value":"vscjava.vscode-maven","_lower":"vscjava.vscode-maven"},"activationEvent":"onLanguage:xml"}
+[2019-12-15 18:03:55.983] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code-saitama/.vscode/extensions/vscjava.vscode-maven-0.20.0/dist/extension
+[2019-12-15 18:09:17.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2019-12-15 18:09:17.862] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/extension-editing/dist/extension

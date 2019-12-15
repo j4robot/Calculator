@@ -1,0 +1,8 @@
+[2019-12-15 17:59:58.948] [sharedprocess] [info] main {"machineId":"ee0b63462d8a18affec8a7b1a19f1f1a7a245831a51e6a30007f036b096d742f","windowId":2}
+[2019-12-15 18:00:09.481] [sharedprocess] [info] Installing extension: vscjava.vscode-java-test
+[2019-12-15 18:00:13.122] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-test /tmp/7ead7234-aaf6-473e-ae66-39d55ad1bab3
+[2019-12-15 18:00:13.595] [sharedprocess] [info] Extracted extension to /home/code-saitama/.vscode/extensions/.vscjava.vscode-java-test-0.22.0: vscjava.vscode-java-test
+[2019-12-15 18:00:13.596] [sharedprocess] [info] Renamed to /home/code-saitama/.vscode/extensions/vscjava.vscode-java-test-0.22.0
+[2019-12-15 18:00:13.598] [sharedprocess] [info] Installation completed. vscjava.vscode-java-test
+[2019-12-15 18:00:13.815] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-test
+[2019-12-15 18:00:38.924] [sharedprocess] [info] Starting to clean up unused language packs.

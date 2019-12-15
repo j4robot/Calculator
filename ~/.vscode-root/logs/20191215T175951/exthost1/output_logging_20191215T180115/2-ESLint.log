@@ -1,0 +1,369 @@
+[Info  - 6:01:15 PM] ESLint server stopped.
+[Info  - 6:01:17 PM] ESLint server running in node v12.4.0
+[Info  - 6:01:17 PM] ESLint server is running.
+[Info  - 6:01:23 PM] ESLint library loaded from: /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/api.js
+[Error - 6:01:26 PM] ESLint stack trace:
+[Error - 6:01:26 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:01:26 PM] ESLint stack trace:
+[Error - 6:01:26 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:01:27 PM] ESLint stack trace:
+[Error - 6:01:27 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:03:02 PM] ESLint stack trace:
+[Error - 6:03:02 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:03:09 PM] ESLint stack trace:
+[Error - 6:03:09 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:09:16 PM] ESLint stack trace:
+[Error - 6:09:16 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:09:32 PM] ESLint stack trace:
+[Error - 6:09:32 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:09:33 PM] ESLint stack trace:
+[Error - 6:09:33 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:09:35 PM] ESLint stack trace:
+[Error - 6:09:35 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:09:35 PM] ESLint stack trace:
+[Error - 6:09:35 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:09:35 PM] ESLint stack trace:
+[Error - 6:09:35 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:09:36 PM] ESLint stack trace:
+[Error - 6:09:36 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:09:36 PM] ESLint stack trace:
+[Error - 6:09:36 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:09:44 PM] ESLint stack trace:
+[Error - 6:09:44 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:35:04 PM] ESLint stack trace:
+[Error - 6:35:04 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:35:04 PM] ESLint stack trace:
+[Error - 6:35:04 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:36:52 PM] ESLint stack trace:
+[Error - 6:36:52 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:36:52 PM] ESLint stack trace:
+[Error - 6:36:52 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:36:53 PM] ESLint stack trace:
+[Error - 6:36:53 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:36:53 PM] ESLint stack trace:
+[Error - 6:36:53 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:38:31 PM] ESLint stack trace:
+[Error - 6:38:31 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:38:31 PM] ESLint stack trace:
+[Error - 6:38:31 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:38:49 PM] ESLint stack trace:
+[Error - 6:38:49 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:38:49 PM] ESLint stack trace:
+[Error - 6:38:49 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:38:49 PM] ESLint stack trace:
+[Error - 6:38:49 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Error - 6:38:49 PM] ESLint stack trace:
+[Error - 6:38:49 PM] Error: Calculator/.eslintrc.js » @react-native-community/eslint-config#overrides[2]:
+	Environment key "jest/globals" is unknown
+
+    at /home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:169:19
+    at Array.forEach (<anonymous>)
+    at validateEnvironment (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:163:30)
+    at validateConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/shared/config-validator.js:334:9)
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:417:13)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:271:21)
+    at CLIEngine.isPathIgnored (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:950:18)
+    at CLIEngine.executeOnText (/home/code-saitama/dev/FrontendDev/MobileApps/Calculator/node_modules/eslint/lib/cli-engine/cli-engine.js:867:38)
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:60107
+    at /home/code-saitama/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/server/out/eslintServer.js:1:61116
+[Info  - 6:39:28 PM] ESLint server stopped.
